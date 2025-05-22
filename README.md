@@ -1,4 +1,4 @@
-![Projeto Calculadora Simples](imagem/calcular.png)
+![Projeto Calculadora Simples](imagem/Calculation.png)
 
 # 🧮 Calculadora Uber - Simples e Eficiente!
 
